@@ -8,3 +8,6 @@ Copied in data set from Chilean Earthquake Effects on Pregnancy Outcomes in both
 
 18 January 2019
 Added English version csv data file with numeric coded data instead of strings. Added code book for data file with spanish-english translations and medical explanations for each variable.
+
+19 Jan 2019
+Updated aeg entry in codebook to include spanish names for the coded numbers, and improve english interpretation.
