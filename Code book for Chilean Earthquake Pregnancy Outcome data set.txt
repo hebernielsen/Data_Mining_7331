@@ -56,9 +56,9 @@ aeg = wgt_for_age (the baby's weight for gestational age (numeric (byte) )
      The designation is important because small for gestational age (SGA) and large for gestational age (LGA) babies are biomarkers of
      risk for important problems in the first days of life. SGA is defined as <10%ile for gestational age. LGA is defined as >90%ile for gestational       age.
      In the Stata data set these are designated as follows:
-	0 = Appropriate for Gestational Age (AGA)
-	1 = Small for Gestational Age
-	2 = Large for Gestational Age
+	0 (aeg) = Appropriate for Gestational Age (AGA)
+	1 (Peg) = Small for Gestational Age (SGA)
+	2 (geg) = Large for Gestational Age (LGA)
 
 eg = Gest_age (Gestational age (numeric, byte))
      The gestational age of the child at birth. Given in completed weeks (i.e., 37 weeks plus 4 days is 37)
