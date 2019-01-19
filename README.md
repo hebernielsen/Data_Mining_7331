@@ -5,3 +5,6 @@ Copied course syllabus over from ECLarsen "Data Mining Notebooks" repo after cre
 
 17 January 2019
 Copied in data set from Chilean Earthquake Effects on Pregnancy Outcomes in both Stata and .csv formats, image of summary stats of the data (from Stata), and publication that used the data.
+
+18 January 2019
+Added English version csv data file with numeric coded data instead of strings. Added code book for data file with spanish-english translations and medical explanations for each variable.
