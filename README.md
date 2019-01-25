@@ -11,3 +11,6 @@ Added English version csv data file with numeric coded data instead of strings. 
 
 19 Jan 2019
 Updated aeg entry in codebook to include spanish names for the coded numbers, and improve english interpretation.
+
+25 Jan 2019
+Uploaded a Jupyter notebook page for doing PCA analysis and a copy of two component model visualization that is not correct because doesn't show 2 colors.
