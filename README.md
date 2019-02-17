@@ -16,3 +16,8 @@ Updated aeg entry in codebook to include spanish names for the coded numbers, an
 Uploaded a Jupyter notebook page for doing PCA analysis and a copy of two component model visualization that is not correct because doesn't show 2 colors.
 
 Uploaded a Jupyter notebook page for the Violin plots.
+
+17 February 2019
+Added to the existing "Mini Project 1" folder my current version of the miniproject, namely ipynb file with "clean_code" in
+the title - which is my progress to date on this miniproject sans contributions from other team members. Updated the document
+that contains my responses to the mini project questions.
