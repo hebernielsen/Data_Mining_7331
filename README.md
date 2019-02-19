@@ -23,4 +23,4 @@ the title - which is my progress to date on this miniproject sans contributions 
 that contains my responses to the mini project questions.
 
 19 february 2019
-Added to this folder zip files containing test and train data sets for the Plankton data base that I retrieved from Kaggle. Also added my in class 5 Jupyter python worksheet.
+Unable to this folder zip files containing test and train data sets for the Plankton data base that I retrieved from Kaggle, because files are about 10 times too large. Added my in class 5 Jupyter python worksheet successfully, updated to be the completed version.
