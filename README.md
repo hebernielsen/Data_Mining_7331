@@ -21,3 +21,6 @@ Uploaded a Jupyter notebook page for the Violin plots.
 Added to the existing "Mini Project 1" folder my current version of the miniproject, namely ipynb file with "clean_code" in
 the title - which is my progress to date on this miniproject sans contributions from other team members. Updated the document
 that contains my responses to the mini project questions.
+
+19 february 2019
+Added to this folder zip files containing test and train data sets for the Plankton data base that I retrieved from Kaggle. Also added my in class 5 Jupyter python worksheet.
